@@ -1,5 +1,5 @@
 # BookManager
-Bots Crew's task
+Spring + Hibernate CRUD application with console client
 
 1. Create database 'lib' using PostgreSQL
   - user: postgres
